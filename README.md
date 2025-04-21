@@ -15,3 +15,24 @@ Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
   - Rodion
   - Sinclair
   - Gregor
+
+________________________________________________________________
+
+Localization done by BOTENGOLENDOS (dont ask, inside joke)
+
+\\\ Translations done:
+- Canto's and Intervallos names that have fights
+- All MILI songs that have background lyrics
+- All UI elements of the battlepass
+- Entire UI of Durante
+- All IDS up to Season 3 skills
+- All cutscenes text (5-30, final part of 5-36, 6-35, 6-41, 6-48, 7-36, etc)
+- 7/326 E.G.O gifts fully translated
+- All E.G.O phrases of the following characters:
+  - Yi sang
+  - Meursault
+  - Heathcliff
+  - Rodion
+  - Sinclair
+  - Gregor
+  
