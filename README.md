@@ -3,6 +3,7 @@ Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
 \\\ Traduções já completas:
 - Nomes de Cantos e Intervalos que possuem lutas
 - Todas musicas da MILI com letras no background
+- Letras de todos os covers de Pass On
 - Todos elementos da IU do passe de batalha
 - Todo IU de Durante
 - Todas habilidades de todos IDS até a Temporada 3 
