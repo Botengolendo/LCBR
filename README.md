@@ -10,13 +10,18 @@ Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
 - Todas falas de cutscene (5-30, final do 5-36, 6-35, 6-41, 6-48, 7-36, entre outros)
 - 7/326 presentes de ego totalmente traduzidos
 - Todos nomes e palavras-chave de IDs
+- Todos nomes de abnormalidades, e seus E.G.Os, de todos personagens
 - Todas as falas de E.G.O dos seguintes personagens:
   - Yi sang
+  - Don quixote
   - Meursault
   - Heathcliff
   - Rodion
   - Sinclair
   - Gregor
+- Todos IDS dos seguintes personagens:
+  - Don Quixote
+  - Faust
 
 ________________________________________________________________
 
