@@ -22,6 +22,7 @@ Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
 - Todos IDS dos seguintes personagens:
   - Don Quixote
   - Faust
+  - Rodion
 
 ________________________________________________________________
 
