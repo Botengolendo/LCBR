@@ -30,6 +30,31 @@ Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
   - Rodion
   - Gregor
 
+
+Instruções de como instalar a tradução e usar no seu jogo:
+
+Passo 1 - Baixe e extraia o .zip disponivel no começo da página
+
+![image](https://github.com/user-attachments/assets/d7e440b3-4d1a-42bc-a063-453e35dd131b)
+
+
+Passo 2 - Abra os arquivos locais do seu Limbus Company
+
+![image](https://github.com/user-attachments/assets/0ba496bb-e7d7-47e3-b081-68c4df230812)
+
+Passo 3 - Ao abrir a pasta de arquivos locais, ponha a pasta Lang (do .zip) dentro da pasta LimbusCompany_Data
+
+![image](https://github.com/user-attachments/assets/da96cc18-9f28-436d-a515-8b236c189ca1)
+
+Passo 4 - Após isso, abra o jogo e clique no seguinte botão:
+
+![image](https://github.com/user-attachments/assets/0de9f19a-4e3e-41d9-8488-cea85d6bbd83)
+
+Depois selecione a opção PT-BR e reinicie o jogo
+
+![image](https://github.com/user-attachments/assets/d7694996-5fa1-4579-bb81-1085387ea416)
+
+Se tudo for feito corretamente, seu jogo agora deve estar (com grande parte) traduzido. Aproveite!
 ________________________________________________________________
 
 Localization done by BOTENGOLENDOS (dont ask, inside joke)
