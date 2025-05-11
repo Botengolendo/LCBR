@@ -26,6 +26,7 @@ Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
   - Don Quixote
   - Faust
   - Rodion
+  - Gregor
 
 ________________________________________________________________
 
