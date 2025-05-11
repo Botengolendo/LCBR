@@ -1,6 +1,8 @@
 
 ![communityIcon_bh9hr65zmaa71 (4)](https://github.com/user-attachments/assets/e371d179-b66e-4b75-889e-41ddb9acaad9)
 
+!AVISO! Próxima atualização da tradução vai ser algum dia da semana após a primeira semana de lançamento do Canto 8
+
 Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
 
 \\\ Traduções já completas:
@@ -10,10 +12,10 @@ Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
 - Todos elementos da IU do passe de batalha
 - Todo IU de Durante
 - Todas habilidades de todos IDS até a Temporada 3 
-- Todas falas de cutscene (5-30, final do 5-36, 6-35, 6-41, 6-48, 7-36, entre outros)
+- Todas falas de cutscene
 - 7/326 presentes de ego totalmente traduzidos
 - Todos nomes e palavras-chave de IDs
-- Todos nomes de abnormalidades, e seus E.G.Os, de todos personagens
+- Todos nomes de Abnormalidades, e seus E.G.Os
 - Todas as falas de E.G.O dos seguintes personagens:
   - Yi sang
   - Don quixote
@@ -37,9 +39,11 @@ Localization done by BOTENGOLENDOS (dont ask, inside joke)
 - All MILI songs that have background lyrics
 - All UI elements of the battlepass
 - Entire UI of Durante
-- All IDS up to Season 3 skills
-- All cutscenes text (5-30, final part of 5-36, 6-35, 6-41, 6-48, 7-36, etc)
+- All Ids up to Season 3
+- All cutscenes text
 - 7/326 E.G.O gifts fully translated
+- All names and keywords of Ids
+- All Abnormalities, and their E.G.Os, names
 - All E.G.O phrases of the following characters:
   - Yi sang
   - Meursault
@@ -47,4 +51,8 @@ Localization done by BOTENGOLENDOS (dont ask, inside joke)
   - Rodion
   - Sinclair
   - Gregor
-  
+- All Ids of the following characters:
+  - Don Quixote
+  - Faust
+  - Rodion
+  - Gregor
