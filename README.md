@@ -1,5 +1,4 @@
-![communityIcon_bh9hr65zmaa71 (3)](https://github.com/user-attachments/assets/4b354330-3c73-4f28-a872-4e0f215a8d17)
-
+![communityIcon_bh9hr65zmaa71 (3)](https://github.com/user-attachments/assets/58adba33-11d2-4d42-bd48-78d80e5c0684)
 
 Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
 
