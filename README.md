@@ -1,7 +1,7 @@
+!AVISO! Próxima atualização da tradução vai ser algum dia da semana após a primeira semana de lançamento do Canto 8
 
 ![communityIcon_bh9hr65zmaa71 (4)](https://github.com/user-attachments/assets/e371d179-b66e-4b75-889e-41ddb9acaad9)
 
-!AVISO! Próxima atualização da tradução vai ser algum dia da semana após a primeira semana de lançamento do Canto 8
 
 Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
 
