@@ -6,7 +6,7 @@
 Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
 
 \\\ Traduções já completas:
-- Nomes de Cantos e Intervalos que possuem lutas
+- Nomes de Cantos e Intervalos
 - Todas musicas da MILI com letras no background
 - Letras de todos os covers de Pass On
 - Todos elementos da IU do passe de batalha
