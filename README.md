@@ -13,6 +13,8 @@ Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
 - Todo IU de Durante
 - Todas habilidades de todos IDS até a Temporada 3 
 - Todas falas de cutscene
+- Tutorial inteiro
+- Todos elementos do menu principal
 - 7/326 presentes de ego totalmente traduzidos
 - Todos nomes e palavras-chave de IDs
 - Todos nomes de Abnormalidades, e seus E.G.Os
