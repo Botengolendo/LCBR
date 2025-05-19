@@ -1,4 +1,4 @@
-!AVISO! Próxima atualização da tradução vai ser algum dia da semana após a primeira semana de lançamento do Canto 8
+!AVISO! Próxima atualização da tradução vai priorizar a tradução das histórias do Canto 8 (então não espere que seja lançada com antecedência)
 
 ![communityIcon_bh9hr65zmaa71 (4)](https://github.com/user-attachments/assets/e371d179-b66e-4b75-889e-41ddb9acaad9)
 
@@ -7,6 +7,9 @@ Tradução feita pelos BOTENGOLENDOS (não pergunte, piada interna)
 
 \\\ Traduções já completas:
 - Nomes de Cantos e Intervalos
+- Todo Canto 1
+- Primeiro episódio do Canto 8
+- Todos inimigos e habilidades do Canto 8
 - Todas musicas da MILI com letras no background
 - Letras de todos os covers de Pass On
 - Todos elementos da IU do passe de batalha
