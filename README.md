@@ -1,3 +1,5 @@
+Esse projeto est[a atualmente num estado de limbo, um possivel rework possa existir mas por enquanto nada confirmado.
+
 !AVISO! Próxima atualização da tradução vai priorizar a tradução das histórias do Canto 8 (então não espere que seja lançada com antecedência)
 
 ![communityIcon_bh9hr65zmaa71 (4)](https://github.com/user-attachments/assets/e371d179-b66e-4b75-889e-41ddb9acaad9)
